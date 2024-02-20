@@ -1,0 +1,9 @@
+nom:Mousse sanglante
+img:$c/plante/bloodmoss
+color:42,31,20
+prix:4
+poid:0.0
+nmbEffect:3
+effect0:teinture_marron, 0
+effect1:non_magie, 0
+effect2:toxique, 1

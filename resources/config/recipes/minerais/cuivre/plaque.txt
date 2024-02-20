@@ -1,0 +1,7 @@
+nom:Plaque en Cuivre
+img:parchemin
+result:$i/cuivre/plaque
+item0:2, $i/cuivre/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

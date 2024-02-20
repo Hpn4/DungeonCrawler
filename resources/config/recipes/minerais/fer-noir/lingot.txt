@@ -1,0 +1,7 @@
+nom:Lingot de Fer noir
+img:parchemin
+result:$i/fer-noir/lingot
+item0:2, $i/fer-noir/minerais
+item1:1, $m/charbon
+type:minerais
+prix:15

@@ -1,0 +1,5 @@
+nom:Navet
+img:$f/navet
+color:102,83,55
+prix:7
+poid:0.0

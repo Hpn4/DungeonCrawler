@@ -1,0 +1,6 @@
+nom:Poudre de cristaux
+img:$g/cristaux_poudre
+color:15,66,62
+prix:30
+rarete:rare
+poid:0.0

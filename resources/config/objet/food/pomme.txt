@@ -1,0 +1,5 @@
+nom:Pomme
+img:$f/pomme
+color:117,64,47
+prix:5
+poid:0.0

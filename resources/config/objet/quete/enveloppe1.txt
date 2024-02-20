@@ -1,0 +1,6 @@
+nom:Enveloppe
+img:$q/enveloppe1
+phrase:l'enveloppe
+color:108,79,49
+prix:0
+poid:0.0

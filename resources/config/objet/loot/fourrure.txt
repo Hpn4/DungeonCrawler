@@ -1,0 +1,6 @@
+nom:Fourrure
+img:$l/fourrure
+color:60,48,52
+prix:50
+rarete:unco
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Piment
+img:$f/piment
+color:120,41,25
+prix:8
+poid:0.0

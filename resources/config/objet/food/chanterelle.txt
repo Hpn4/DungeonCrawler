@@ -1,0 +1,5 @@
+nom:Chanterelle
+img:$f/chanterelle
+color:182,148,49
+prix:6
+poid:0.0

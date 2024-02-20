@@ -1,0 +1,21 @@
+nom:Bottes en cuir renforcé
+equip:2
+imgRendue:boots/brown
+img:$a/leather/bottes1
+durabilite:250
+color:102,51,0
+prix:80
+poid:3
+stackable:false
+
+Equiper {
+	vie:+20
+	defMin:+4
+	defMax:+4
+}
+
+Desequiper {
+	vie:-20
+	defMin:-4
+	defMax:-4
+}

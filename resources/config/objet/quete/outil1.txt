@@ -1,0 +1,5 @@
+nom:Outil
+img:$q/outil1
+color:70,63,65
+prix:0
+poid:0.0

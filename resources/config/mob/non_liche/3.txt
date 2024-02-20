@@ -1,0 +1,12 @@
+
+##Stat de la liche n. 3 :
+
+#0:F:9/Vie:190/Mag:130/Ag:10/Att:51/Def:49/Cr:5/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:liche/3.png/F
+
+##Phrase de stat :
+#2:str:Roi Liche/F
+
+#3:

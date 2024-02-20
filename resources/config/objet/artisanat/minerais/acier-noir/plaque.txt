@@ -1,0 +1,5 @@
+nom:Plaque en Acier noir
+img:$i/acier-noir/plaque
+color:51,56,56
+prix:104
+poid:0.0

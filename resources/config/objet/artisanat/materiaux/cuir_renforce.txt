@@ -1,0 +1,6 @@
+nom:Cuir renforce
+img:$m/cuir_renforce
+color:34,22,11
+prix:60
+rarete:rare
+poid:0.0

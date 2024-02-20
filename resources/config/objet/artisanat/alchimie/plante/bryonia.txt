@@ -1,0 +1,9 @@
+nom:Bryone
+img:$c/poudre/bryonia
+color:91,60,73
+prix:2
+poid:0.0
+nmbEffect:3
+effect0:toxique, 2
+effect1:boost_atk, 1
+effect2:amplificateur_degat, 1

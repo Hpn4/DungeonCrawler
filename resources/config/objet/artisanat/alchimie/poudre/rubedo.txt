@@ -1,0 +1,11 @@
+nom:Rubedo
+img:$c/poudre/rubedo
+color:89,53,61
+prix:27
+rarete:unco
+poid:0.0
+nmbEffect:4
+effect0:teinture_rouge, 0
+effect1:amplificateur, 1
+effect2:toxique, 1
+effect3:enflamme, 2

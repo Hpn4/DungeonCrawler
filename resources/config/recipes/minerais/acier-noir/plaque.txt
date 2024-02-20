@@ -1,0 +1,7 @@
+nom:Plaque en Acier noir
+img:parchemin
+result:$i/acier-noir/plaque
+item0:2, $i/acier-noir/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

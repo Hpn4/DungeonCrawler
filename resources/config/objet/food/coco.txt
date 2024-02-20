@@ -1,0 +1,6 @@
+nom:Coco
+img:$f/coco
+color:135,86,49
+rarete:unco
+prix:15
+poid:0.0

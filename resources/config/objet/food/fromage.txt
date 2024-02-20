@@ -1,0 +1,6 @@
+nom:Fromage
+img:$f/fromage
+color:135,111,55
+rarete:unco
+prix:18
+poid:0.0

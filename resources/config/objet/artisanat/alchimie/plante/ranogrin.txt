@@ -1,0 +1,9 @@
+nom:Ranogrine
+img:$c/plante/ranogrin
+color:37,45,14
+prix:6
+poid:0.0
+nmbEffect:3
+effect0:stabiliseur, 0
+effect1:boost_atk, 0
+effect2:amplificateur_degat, 1

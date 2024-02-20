@@ -1,0 +1,29 @@
+
+##Stat de base de l'ondin a la mace niv. 3 :
+
+#0:F:3/Vie:150/Mag:50/Ag:4/Att:30/Def:30/Cr:1/Exp:0/ExpM:20/Lvl:1/F
+
+##Image du perso :
+#1:Img:ondin/pied/batte/3.png/F
+
+##Image de l'attaque :
+#2:Img:masse.png/F
+#3:Img:magique.png/F
+
+##Image d'équipement :
+#4:Img:masse.png/F
+
+##Phrase d'attaque :
+#5:str:a la masse/F
+#6:str:au missile magique/F
+
+##Phrase de stat :
+#7:str:de l'ondin a la mace niv. 3/id:Maitre Guerrier/F
+
+##Son à l'attaque:
+#8:son:massue/F
+#9:son:magicmissile/F
+
+#10:str:end/F
+
+#11:

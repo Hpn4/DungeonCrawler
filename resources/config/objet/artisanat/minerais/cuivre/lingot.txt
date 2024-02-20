@@ -1,0 +1,6 @@
+nom:Lingot de Cuivre
+img:$i/cuivre/lingot
+color:76,45,34
+prix:30
+rarete:unco
+poid:0.0

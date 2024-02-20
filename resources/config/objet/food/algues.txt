@@ -1,0 +1,5 @@
+nom:Algues
+img:$f/algues
+color:113,88,25
+prix:15
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Fil
+img:$m/fil
+color:82,74,62
+prix:4
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Plaque en Dimeritium
+img:$i/dimeritium/plaque
+color:90,67,61
+prix:648
+rarete:epic
+poid:0.0

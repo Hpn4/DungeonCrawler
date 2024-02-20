@@ -1,0 +1,5 @@
+nom:Corde
+img:$m/corde
+color:61,50,36
+prix:25
+poid:0.0

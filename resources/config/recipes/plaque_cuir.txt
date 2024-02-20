@@ -1,0 +1,5 @@
+nom:Plaque de cuir
+img:parchemin
+result:$m/plaque_cuir
+item0:4, $m/laniere_cuir
+prix:15

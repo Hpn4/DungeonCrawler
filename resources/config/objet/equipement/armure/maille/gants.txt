@@ -1,0 +1,21 @@
+nom:Gants en maille
+equip:4
+imgRendue:gants/metal
+img:$a/chain/gants
+durabilite:320
+color:140,140,140
+prix:120
+poid:3.5
+stackable:false
+
+Equiper {
+	vie:+25
+	defMin:+5
+	defMax:+5
+}
+
+Desequiper {
+	vie:-25
+	defMin:-5
+	defMax:-5
+}

@@ -1,0 +1,6 @@
+nom:Corde
+img:parchemin
+result:$m/corde
+item0:2, $m/ficelle
+item1:1, $m/raisine
+prix:15

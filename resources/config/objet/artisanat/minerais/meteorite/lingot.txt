@@ -1,0 +1,6 @@
+nom:Lingot de Meteorite
+img:$i/meteorite/lingot
+color:118,110,129
+prix:60
+rarete:rare
+poid:0.0

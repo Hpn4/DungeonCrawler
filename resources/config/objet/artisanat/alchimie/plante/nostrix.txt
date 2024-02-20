@@ -1,0 +1,10 @@
+nom:Nostrix
+img:$c/plante/nostrix
+color:63,51,28
+prix:7
+poid:0.0
+nmbEffect:4
+effect0:toxique, 1
+effect1:stabiliseur, 0
+effect2:amplificateur_degat, 1
+effect3:boost_atk, 0

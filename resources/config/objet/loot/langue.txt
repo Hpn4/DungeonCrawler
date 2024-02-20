@@ -1,0 +1,5 @@
+nom:Langue
+img:$l/langue
+color:75,40,46
+prix:15
+poid:0.0

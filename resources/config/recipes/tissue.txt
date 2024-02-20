@@ -1,0 +1,5 @@
+nom:Tissue
+img:parchemin
+result:$m/tissue
+item0:4, $m/fil
+prix:15

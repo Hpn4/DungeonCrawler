@@ -1,0 +1,6 @@
+nom:Carte
+img:$q/carte1
+phrase:la carte
+color:165,154,122
+prix:0
+poid:0.0

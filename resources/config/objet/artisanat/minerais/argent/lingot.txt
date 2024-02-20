@@ -1,0 +1,6 @@
+nom:Lingot d'Argent
+img:$i/argent/lingot
+color:123,127,128
+prix:50
+rarete:unco
+poid:0.0

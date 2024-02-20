@@ -1,0 +1,7 @@
+nom:Lingot de Dimeritium enrichie
+img:parchemin
+result:$i/dimeritium-enrichie/lingot
+item0:2, $i/dimeritium-enrichie/minerais
+item1:1, $m/charbon
+type:minerais
+prix:15

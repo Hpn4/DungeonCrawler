@@ -1,0 +1,6 @@
+nom:Poudre d'emeraude
+img:$g/emeraude_poudre
+color:9,51,15
+prix:125
+rarete:rare
+poid:0.0

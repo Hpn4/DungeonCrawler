@@ -1,0 +1,6 @@
+nom:Kit
+img:$m/kit2
+color:14,20,15
+prix:20
+rarete:unco
+poid:0.0

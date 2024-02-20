@@ -1,0 +1,6 @@
+nom:Minerais de Dimeritium enrichie
+img:$i/dimeritium-enrichie/minerais
+color:26,80,107
+prix:256
+rarete:epic
+poid:0.0

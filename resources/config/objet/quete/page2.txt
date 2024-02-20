@@ -1,0 +1,6 @@
+nom:Page
+img:$q/page2
+phrase:la page taché de sang
+color:151,115,82
+prix:0
+poid:0.0

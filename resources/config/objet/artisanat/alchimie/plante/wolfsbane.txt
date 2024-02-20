@@ -1,0 +1,11 @@
+nom:Aconit
+img:$c/plante/wolfsbane
+color:54,55,55
+prix:3
+poid:0.0
+nmbEffect:5
+effect0:teinture_violette, 0
+effect1:toxique, 2
+effect2:empoisonne, 2
+effect3:amplificateur_degat, 1
+effect4:amplificateur, 2

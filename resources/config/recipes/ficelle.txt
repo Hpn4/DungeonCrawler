@@ -1,0 +1,6 @@
+nom:Ficelle
+img:parchemin
+result:$m/ficelle
+item0:4, $m/fibre
+item1:1, $m/raisine
+prix:15

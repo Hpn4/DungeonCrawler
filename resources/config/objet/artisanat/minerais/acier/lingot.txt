@@ -1,0 +1,5 @@
+nom:Lingot d'Acier
+img:$i/acier/lingot
+color:84,78,73
+prix:6
+poid:0.0

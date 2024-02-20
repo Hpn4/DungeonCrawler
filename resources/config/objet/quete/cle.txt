@@ -1,0 +1,6 @@
+nom:Cle
+img:$q/cle
+phrase:la clé
+color:54,57,56
+prix:0
+poid:0.0

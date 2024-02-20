@@ -1,0 +1,6 @@
+nom:Cuir renforce
+img:parchemin
+result:$m/cuir_renforce
+item0:1, $m/plaque_cuir
+item1:4, $m/cire
+prix:15

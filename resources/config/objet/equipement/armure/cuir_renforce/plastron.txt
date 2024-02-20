@@ -1,0 +1,21 @@
+nom:Plastron en cuir renforcé
+equip:0
+imgRendue:leather
+img:$a/leather/plastron1
+durabilite:300
+color:102,51,0
+prix:130
+poid:4
+stackable:false
+
+Equiper {
+	vie:+30
+	defMin:+7
+	defMax:+7
+}
+
+Desequiper {
+	vie:-30
+	defMin:-7
+	defMax:-7
+}

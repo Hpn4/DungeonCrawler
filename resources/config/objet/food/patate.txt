@@ -1,0 +1,5 @@
+nom:Patate
+img:$f/patate
+color:120,92,55
+prix:5
+poid:0.0

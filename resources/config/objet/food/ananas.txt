@@ -1,0 +1,5 @@
+nom:Ananas
+img:$f/ananas
+color:100,87,35
+prix:12
+poid:0.0

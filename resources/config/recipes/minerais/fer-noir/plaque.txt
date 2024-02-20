@@ -1,0 +1,7 @@
+nom:Plaque en Fer noir
+img:parchemin
+result:$i/fer-noir/plaque
+item0:2, $i/fer-noir/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

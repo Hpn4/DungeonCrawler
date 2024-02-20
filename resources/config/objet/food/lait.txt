@@ -1,0 +1,6 @@
+nom:Lait
+img:$f/lait
+color:116,121,121
+rarete:unco
+prix:20
+poid:0.0

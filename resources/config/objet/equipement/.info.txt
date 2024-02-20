@@ -1,0 +1,8 @@
+	PLASTRON("Plastron", 0),
+	JAMBIERE("Jambiere", 1),
+	BOTTES("Bottes", 2),
+	TALISMAN("Talisman", 3),
+	GANTS("Gants", 4),
+	ANNEAU("Anneau", 5),
+	ARME_PRINCIPALE("Main principale", 7),
+	BOUCLIER("Main secondaire", 8);

@@ -1,0 +1,6 @@
+nom:Emeraude brut
+img:$g/emeraude
+color:20,60,29
+prix:250
+rarete:rare
+poid:0.0

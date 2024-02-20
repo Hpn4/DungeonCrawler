@@ -1,0 +1,12 @@
+
+##Stat du zombie n. 3 :
+
+#0:F:8/Vie:220/Mag:70/Ag:8/Att:49/Def:41/Cr:4/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:zombie/3.png/F
+
+##Phrase de stat :
+#2:str:Zombie/F
+
+#3:

@@ -1,0 +1,6 @@
+nom:Minerais d'Argent
+img:$i/argent/minerais
+color:86,89,88
+prix:25
+rarete:unco
+poid:0.0

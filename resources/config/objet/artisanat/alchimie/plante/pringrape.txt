@@ -1,0 +1,10 @@
+nom:Vigne curative
+img:$c/plante/pringrape
+color:40,47,21
+prix:5
+poid:0.0
+nmbEffect:4
+effect0:teinture_violette, 0
+effect1:regen_vie, 0
+effect2:boost_vie, 0
+effect3:stabiliseur, 0

@@ -1,0 +1,12 @@
+
+##Stat du necromencien niv. 3 :
+
+#0:F:11/Vie:200/Mag:120/Ag:8/Att:61/Def:39/Cr:5/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:necromencien/3.png/F
+
+##Phrase de stat :
+#2:str:Mage Noir/F
+
+#3:

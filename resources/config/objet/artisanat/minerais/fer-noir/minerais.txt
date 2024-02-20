@@ -1,0 +1,5 @@
+nom:Minerais de Fer noir
+img:$i/fer-noir/minerais
+color:71,74,64
+prix:23
+poid:0.0

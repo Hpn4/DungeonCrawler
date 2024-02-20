@@ -1,0 +1,11 @@
+nom:Gui
+img:$c/plante/mistletoe
+color:40,49,18
+prix:2
+poid:0.0
+nmbEffect:5
+effect0:teinture_blanche, 0
+effect1:toxique, 1
+effect2:regen_vie, 1
+effect3:instant_heal, 1
+effect4:amplificateur_degat, 0

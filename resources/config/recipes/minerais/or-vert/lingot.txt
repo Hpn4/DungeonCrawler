@@ -1,0 +1,7 @@
+nom:Lingot d'Or vert
+img:parchemin
+result:$i/or-vert/lingot
+item0:2, $i/or-vert/minerais
+item1:1, $m/charbon
+type:minerais
+prix:15

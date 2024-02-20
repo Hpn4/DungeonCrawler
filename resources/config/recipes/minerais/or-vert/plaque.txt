@@ -1,0 +1,7 @@
+nom:Plaque en Or vert
+img:parchemin
+result:$i/or-vert/plaque
+item0:2, $i/or-vert/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

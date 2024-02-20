@@ -1,0 +1,5 @@
+nom:Pleurote
+img:$f/pleurote
+color:124,116,117
+prix:8
+poid:0.0

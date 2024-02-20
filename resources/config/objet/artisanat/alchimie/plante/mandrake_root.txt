@@ -1,0 +1,11 @@
+nom:Mandragore
+img:$c/plante/mandrake_root
+color:52,42,31
+prix:15
+poid:0.0
+nmbEffect:5
+effect0:teinture_grise, 0
+effect1:toxique, 1
+effect2:empoisonne, 0
+effect3:boost_mana, 1
+effect4:regen_mana, 0

@@ -1,0 +1,9 @@
+nom:Petite cigue
+img:$c/plante/fools_parsley_leaves
+color:16,44,11
+prix:1
+poid:0.0
+nmbEffect:3
+effect0:toxique, 1
+effect1:empoisonne, 0
+effect2:amplificateur_degat, 0

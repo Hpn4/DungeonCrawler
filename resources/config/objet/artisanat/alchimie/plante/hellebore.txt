@@ -1,0 +1,9 @@
+nom:Pétale d'ellébore
+img:$c/plante/hellebore
+color:75,57,96
+prix:5
+poid:0.0
+nmbEffect:3
+effect0:teinture_violette, 0
+effect1:reduit_toxicite, 0
+effect2:antidote, 0

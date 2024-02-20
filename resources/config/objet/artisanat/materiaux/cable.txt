@@ -1,0 +1,5 @@
+nom:Cable
+img:$m/cable
+color:43,46,47
+prix:8
+poid:0.0

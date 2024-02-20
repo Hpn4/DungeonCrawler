@@ -1,0 +1,5 @@
+nom:Mouton cuit
+img:$f/mouton
+color:119,67,36
+prix:27
+poid:0.0

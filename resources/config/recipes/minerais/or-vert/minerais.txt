@@ -1,0 +1,9 @@
+nom:Minerais d'Or vert
+img:parchemin
+result:$i/or-vert/minerais
+item0:4, $i/or/pepite
+item1:3, $i/argent/poudre
+item2:1, $i/cuivre/raffine
+item3:1, $m/charbon
+type:minerais
+prix:15

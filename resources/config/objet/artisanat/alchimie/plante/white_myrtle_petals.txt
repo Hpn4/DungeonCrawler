@@ -1,0 +1,9 @@
+nom:Petale de myrte blanc
+img:$c/plante/white_myrtle_petals
+color:51,48,49
+prix:2
+poid:0.0
+nmbEffect:3
+effect0:gel, 0
+effect1:aveuglement, 0
+effect2:toxique, 1

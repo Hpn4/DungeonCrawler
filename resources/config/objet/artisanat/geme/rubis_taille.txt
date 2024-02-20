@@ -1,0 +1,6 @@
+nom:Rubis parfait
+img:$g/rubis_taille
+color:78,11,9
+prix:400
+rarete:epic
+poid:0.0

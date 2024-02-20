@@ -1,0 +1,5 @@
+nom:Viande de porc
+img:$f/viande-porc
+color:226,163,139
+prix:20
+poid:0.0

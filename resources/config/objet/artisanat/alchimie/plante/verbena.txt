@@ -1,0 +1,10 @@
+nom:Verveine
+img:$c/plante/verbena
+color:80,82,73
+prix:5
+poid:0.0
+nmbEffect:4
+effect0:reduit_toxicite, 1
+effect1:antidote, 0
+effect2:regen_vie, 1
+effect3:instant_heal, 0

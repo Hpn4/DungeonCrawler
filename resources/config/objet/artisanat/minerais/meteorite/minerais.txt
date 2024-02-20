@@ -1,0 +1,6 @@
+nom:Minerais de Meteorite
+img:$i/meteorite/minerais
+color:72,65,72
+prix:30
+rarete:rare
+poid:0.0

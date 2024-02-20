@@ -1,0 +1,11 @@
+nom:Aether
+img:$c/poudre/aether
+color:71,99,122
+prix:23
+rarete:unco
+poid:0.0
+nmbEffect:4
+effect0:teinture_bleue, 0
+effect1:ralentit, 1
+effect2:inflammable, 2
+effect3:instable, 1

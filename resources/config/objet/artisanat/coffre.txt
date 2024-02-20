@@ -1,0 +1,10 @@
+nom:Coffre
+img:$o/artisanat/coffre
+color:111,76,48
+prix:90
+poid:5
+rarete:rare
+
+Ouvrire coffre {
+
+}

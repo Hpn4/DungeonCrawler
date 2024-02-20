@@ -1,0 +1,5 @@
+nom:Minerais de Fer
+img:$i/fer/minerais
+color:52,50,49
+prix:2
+poid:0.0

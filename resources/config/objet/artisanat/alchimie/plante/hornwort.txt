@@ -1,0 +1,7 @@
+nom:Anthocérote
+img:$c/plante/hornwort
+color:47,49,15
+prix:5
+poid:0.0
+nmbEffect:1
+effect0:stabiliseur, 0

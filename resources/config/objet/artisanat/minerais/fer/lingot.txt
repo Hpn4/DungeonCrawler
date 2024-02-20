@@ -1,0 +1,5 @@
+nom:Lingot de Fer
+img:$i/fer/lingot
+color:86,86,85
+prix:4
+poid:0.0

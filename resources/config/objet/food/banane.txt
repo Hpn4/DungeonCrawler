@@ -1,0 +1,5 @@
+nom:Banane
+img:$f/banane
+color:181,131,20
+prix:10
+poid:0.0

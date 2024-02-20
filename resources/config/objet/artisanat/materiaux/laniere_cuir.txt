@@ -1,0 +1,5 @@
+nom:Laniere de cuir
+img:$m/laniere_cuir
+color:64,44,34
+prix:2
+poid:0.0

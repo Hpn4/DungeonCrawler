@@ -1,0 +1,9 @@
+nom:potion de critique
+img:$p/critique
+color:240,195,0
+prix:15
+poid:0.2
+
+Boire {
+	critique:+1
+}

@@ -1,0 +1,6 @@
+nom:Poudre d'Or vert
+img:$i/or-vert/poudre
+color:109,121,94
+prix:17
+rarete:rare
+poid:0.0

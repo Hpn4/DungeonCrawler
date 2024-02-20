@@ -1,0 +1,6 @@
+nom:Minerais de Dimeritium
+img:$i/dimeritium/minerais
+color:38,51,65
+prix:162
+rarete:epic
+poid:0.0

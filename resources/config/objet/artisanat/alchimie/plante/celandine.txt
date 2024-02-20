@@ -1,0 +1,12 @@
+nom:Chélidoine
+img:$c/plante/celandine
+color:62,59,10
+prix:2
+poid:0.0
+nmbEffect:6
+effect0:teinture_jaune, 0
+effect1:regen_vie, 2
+effect2:reduit_toxicite, 0
+effect3:gele, 0
+effect4:aveuglement, 0
+effect5:toxique, 0

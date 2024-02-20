@@ -1,0 +1,5 @@
+nom:Carotte
+img:$f/carotte
+color:115,84,11
+prix:12
+poid:0.0

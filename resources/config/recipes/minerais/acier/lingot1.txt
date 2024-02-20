@@ -1,0 +1,7 @@
+nom:Lingot d'Acier
+img:parchemin
+result:$i/acier/lingot
+item0:2, $i/fer/minerais
+item1:2, $m/charbon
+type:minerais
+prix:15

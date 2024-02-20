@@ -1,0 +1,6 @@
+nom:Poudre de diamand
+img:$g/diamand_poudre
+color:58,86,100
+prix:150
+rarete:rare
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Lingot d'Acier noir
+img:$i/acier-noir/lingot
+color:59,60,46
+prix:52
+poid:0.0

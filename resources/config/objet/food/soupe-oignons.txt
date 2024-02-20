@@ -1,0 +1,5 @@
+nom:Soupe d'oignons
+img:$f/soupe-oignons
+color:76,55,38
+prix:17
+poid:0.0

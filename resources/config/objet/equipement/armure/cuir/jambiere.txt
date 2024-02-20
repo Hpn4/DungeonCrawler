@@ -1,0 +1,21 @@
+nom:Jambiere en cuir
+equip:1
+imgRendue:pants/brown
+img:$a/leather/jambiere
+durabilite:180
+color:134,89,45
+prix:50
+poid:2.5
+stackable:false
+
+Equiper {
+	vie:+15
+	defMin:+4
+	defMax:+4
+}
+
+Desequiper {
+	vie:-15
+	defMin:-4
+	defMax:-4
+}

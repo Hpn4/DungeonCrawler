@@ -1,0 +1,5 @@
+nom:Foie
+img:$l/foie
+color:98,29,25
+prix:15
+poid:0.0

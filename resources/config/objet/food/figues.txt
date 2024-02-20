@@ -1,0 +1,5 @@
+nom:Figues
+img:$f/figues
+color:129,80,77
+prix:12
+poid:0.0

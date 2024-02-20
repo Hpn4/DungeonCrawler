@@ -1,0 +1,5 @@
+nom:Ecaille
+img:$l/ecaille
+color:128,60,55
+prix:20
+poid:0.0

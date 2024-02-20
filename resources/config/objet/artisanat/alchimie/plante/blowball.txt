@@ -1,0 +1,9 @@
+nom:Pissenlit
+img:$c/plante/blowball
+color:110,89,11
+prix:1
+poid:0.0
+nmbEffect:3
+effect0:teinture_jaune, 0
+effect1:aromate, 0
+effect2:amplificateur, 1

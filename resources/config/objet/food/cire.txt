@@ -1,0 +1,6 @@
+nom:Cire
+img:$f/cire
+color:212,155,69
+rarete:unco
+prix:25
+poid:0.0

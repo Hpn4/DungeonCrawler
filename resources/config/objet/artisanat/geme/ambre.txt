@@ -1,0 +1,6 @@
+nom:Ambre brut
+img:$g/ambre
+color:94,67,14
+prix:150
+rarete:rare
+poid:0.0

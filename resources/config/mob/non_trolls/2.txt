@@ -1,0 +1,12 @@
+
+##Stat du troll niv. 2 :
+
+#0:F:10/Vie:235/Mag:25/Ag:3/Att:50/Def:30/Cr:3/Exp:0/ExpM:0/Lvl:2/F
+
+##Image du perso :
+#1:Img:trolls/2.png/F
+
+##Phrase de stat :
+#2:str:Troll/F
+
+#3:

@@ -1,0 +1,6 @@
+nom:Parchemin
+img:$q/parchemin
+phrase:la recette
+color:152,133,101
+prix:0
+poid:0.0

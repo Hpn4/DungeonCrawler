@@ -1,0 +1,12 @@
+
+##Stat du troll niv. 3 :
+
+#0:F:13/Vie:265/Mag:25/Ag:3/Att:55/Def:35/Cr:4/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:trolls/3.png/F
+
+##Phrase de stat :
+#2:str:Troll/F
+
+#3:

@@ -1,0 +1,7 @@
+nom:Lingot de Meteorite
+img:parchemin
+result:$i/meteorite/lingot
+item0:2, $i/meteorite/minerais
+item1:1, $m/charbon
+type:minerais
+prix:15

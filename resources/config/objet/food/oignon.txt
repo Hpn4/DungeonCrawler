@@ -1,0 +1,5 @@
+nom:Oignon
+img:$f/oignon
+color:155,113,75
+prix:5
+poid:0.0

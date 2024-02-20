@@ -1,0 +1,7 @@
+nom:Hiérochloé odorant
+img:$c/plante/bison_grass
+color:29,46,22
+prix:1
+poid:0.0
+effect0:teinture_verte, 0
+effect1:aromate, 0

@@ -1,0 +1,11 @@
+nom:Salpetre
+img:$c/poudre/saltpeter
+color:103,106,105
+prix:10
+poid:0.0
+nmbEffect:5
+effect0:comburant, 2
+effect1:explosif, 2
+effect2:instable, 2
+effect3:inflammable, 1
+effect4:enflamme, 2

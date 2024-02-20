@@ -1,0 +1,6 @@
+nom:Cuivre non raffine
+img:$i/cuivre/raffine
+color:102,63,48
+prix:3
+rarete:unco
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Lingot de Fer noir
+img:$i/fer-noir/lingot
+color:46,51,48
+prix:46
+poid:0.0

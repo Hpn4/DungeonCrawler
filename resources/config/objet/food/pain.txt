@@ -1,0 +1,5 @@
+nom:Pain
+img:$f/pain
+color:140,94,53
+prix:4
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Emeraude parfait
+img:$g/emeraude_taille
+color:3,72,10
+prix:500
+rarete:epic
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Viande seche
+img:$f/viande-seche
+color:83,46,25
+rarete:unco
+prix:35
+poid:0.0

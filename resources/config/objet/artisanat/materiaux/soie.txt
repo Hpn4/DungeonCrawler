@@ -1,0 +1,6 @@
+nom:Soie
+img:$m/soie
+color:124,108,40
+prix:30
+rarete:unco
+poid:0.0

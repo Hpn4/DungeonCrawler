@@ -1,0 +1,21 @@
+nom:Jambiere en maille
+equip:1
+imgRendue:armor/metal
+img:$a/chain/jambiere
+durabilite:380
+color:140,140,140
+prix:150
+poid:4.5
+stackable:false
+
+Equiper {
+	vie:+35
+	defMin:+8
+	defMax:+8
+}
+
+Desequiper {
+	vie:-35
+	defMin:-8
+	defMax:-8
+}

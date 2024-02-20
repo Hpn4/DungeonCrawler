@@ -1,0 +1,6 @@
+nom:Page
+img:$q/page
+phrase:la page
+color:169,148,108
+prix:0
+poid:0.0

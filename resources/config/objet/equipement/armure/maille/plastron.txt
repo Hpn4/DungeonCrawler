@@ -1,0 +1,21 @@
+nom:Plastron en maille
+equip:0
+imgRendue:mail
+img:$a/chain/plastron
+durabilite:400
+color:140,140,140
+prix:180
+poid:5
+stackable:false
+
+Equiper {
+	vie:+40
+	defMin:+9
+	defMax:+9
+}
+
+Desequiper {
+	vie:-40
+	defMin:-9
+	defMax:-9
+}

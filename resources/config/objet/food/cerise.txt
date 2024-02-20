@@ -1,0 +1,5 @@
+nom:Cerise
+img:$f/cerise
+color:106,41,44
+prix:4
+poid:0.0

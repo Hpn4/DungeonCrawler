@@ -1,0 +1,5 @@
+nom:Raisine
+img:$m/raisine
+color:95,53,23
+prix:2
+poid:0.0

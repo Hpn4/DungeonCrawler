@@ -1,0 +1,6 @@
+nom:Cuire d'ecaille
+img:$l/cuire_ecaille
+color:46,48,43
+prix:230
+rarete:rare
+poid:0.0

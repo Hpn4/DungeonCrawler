@@ -1,0 +1,5 @@
+nom:Viande de chevre
+img:$f/viande-chevre
+color:151,84,80
+prix:22
+poid:0.0

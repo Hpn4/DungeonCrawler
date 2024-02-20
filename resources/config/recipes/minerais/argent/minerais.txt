@@ -1,0 +1,7 @@
+nom:Minerais d'Argent
+img:parchemin
+result:$i/argent/minerais
+item0:5, $i/argent/poudre
+item1:1, $m/charbon
+type:minerais
+prix:15

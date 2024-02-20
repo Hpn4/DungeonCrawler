@@ -1,0 +1,6 @@
+nom:Poudre d'Argent
+img:$i/argent/poudre
+color:105,112,114
+prix:5
+rarete:unco
+poid:0.0

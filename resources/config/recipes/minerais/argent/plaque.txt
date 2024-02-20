@@ -1,0 +1,7 @@
+nom:Plaque en Argent
+img:parchemin
+result:$i/argent/plaque
+item0:2, $i/argent/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

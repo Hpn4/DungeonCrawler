@@ -1,0 +1,5 @@
+nom:Poire
+img:$f/poire
+color:97,98,30
+prix:6
+poid:0.0

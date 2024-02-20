@@ -1,0 +1,11 @@
+nom:Fleur de lotus bleue
+img:$c/plante/blue_lotus
+color:48,48,90
+prix:10
+poid:0.0
+nmbEffect:5
+effect0:toxique, 1
+effect1:drogue, 1
+effect2:ralentit, 1
+effect3:hallucinogene, 1
+effect4:amplificateur, 0

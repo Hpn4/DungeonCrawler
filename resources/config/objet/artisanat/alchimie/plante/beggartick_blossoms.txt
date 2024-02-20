@@ -1,0 +1,8 @@
+nom:Fleur de bident
+img:$c/plante/beggartick_blossoms
+color:91,18,15
+prix:1
+poid:0.0
+nmbEffect:2
+effect0:teinture_rouge, 0
+effect1:drogue, 0

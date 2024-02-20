@@ -1,0 +1,21 @@
+nom:Gants en cuir renforcé
+equip:4
+imgRendue:bracers
+img:$a/leather/gants1
+durabilite:220
+color:102,51,0
+prix:70
+poid:2.5
+stackable:false
+
+Equiper {
+	vie:+15
+	defMin:+3
+	defMax:+3
+}
+
+Desequiper {
+	vie:-15
+	defMin:-3
+	defMax:-3
+}

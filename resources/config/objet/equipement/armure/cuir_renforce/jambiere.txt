@@ -1,0 +1,21 @@
+nom:Jambiere en cuir renforcé
+equip:1
+imgRendue:pants/brown
+img:$a/leather/jambiere1
+durabilite:280
+color:102,51,0
+prix:100
+poid:3.5
+stackable:false
+
+Equiper {
+	vie:+25
+	defMin:+6
+	defMax:+6
+}
+
+Desequiper {
+	vie:-25
+	defMin:-6
+	defMax:-6
+}

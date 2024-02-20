@@ -1,0 +1,5 @@
+nom:Plaque de cuir
+img:$m/plaque_cuir
+color:62,31,23
+prix:8
+poid:0.0

@@ -1,0 +1,12 @@
+
+##Stat de la liche n. 2 :
+
+#0:F:7/Vie:180/Mag:110/Ag:9/Att:44/Def:46/Cr:4/Exp:0/ExpM:0/Lvl:2/F
+
+##Image du perso :
+#1:Img:liche/2.png/F
+
+##Phrase de stat :
+#2:str:Liche/F
+
+#3:

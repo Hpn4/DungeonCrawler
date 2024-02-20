@@ -1,0 +1,6 @@
+nom:Saphire parfait
+img:$g/saphire_taille
+color:36,57,114
+prix:440
+rarete:epic
+poid:0.0

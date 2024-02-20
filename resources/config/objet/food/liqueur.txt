@@ -1,0 +1,5 @@
+nom:Liqueur
+img:$f/liqueur
+color:80,97,73
+prix:17
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Lingot de Dimeritium enrichie
+img:$i/dimeritium-enrichie/lingot
+color:136,70,107
+prix:512
+rarete:epic
+poid:0.0

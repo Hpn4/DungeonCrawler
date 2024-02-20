@@ -1,0 +1,11 @@
+nom:Hydragenum
+img:$c/poudre/hydragenum
+color:69,70,67
+prix:34
+rarete:unco
+poid:0.0
+nmbEffect:4
+effect0:teinture_grise, 0
+effect1:amplificateur, 1
+effect2:instable, 0
+effect3:explosif, 0

@@ -1,0 +1,12 @@
+
+##Stat du necromencien niv. 1 :
+
+#0:F:7/Vie:190/Mag:70/Ag:6/Att:47/Def:33/Cr:3/Exp:0/ExpM:0/Lvl:1/F
+
+##Image du perso :
+#1:Img:necromencien/1.png/F
+
+##Phrase de stat :
+#2:str:Apprentie Necromencien/F
+
+#3:

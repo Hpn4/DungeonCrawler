@@ -1,0 +1,5 @@
+nom:Dent
+img:$l/dent2
+color:66,42,27
+prix:15
+poid:0.0

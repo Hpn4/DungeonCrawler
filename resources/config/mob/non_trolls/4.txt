@@ -1,0 +1,12 @@
+
+##Stat du troll niv. 4 :
+
+#0:F:16/Vie:295/Mag:25/Ag:3/Att:60/Def:40/Cr:5/Exp:0/ExpM:0/Lvl:4/F
+
+##Image du perso :
+#1:Img:trolls/4.png/F
+
+##Phrase de stat :
+#2:str:Shaman Troll/F
+
+#3:

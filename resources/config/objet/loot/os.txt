@@ -1,0 +1,5 @@
+nom:Os
+img:$l/os
+color:78,68,50
+prix:10
+poid:0.0

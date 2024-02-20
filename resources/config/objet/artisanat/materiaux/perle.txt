@@ -1,0 +1,6 @@
+nom:Perle
+img:$m/perle
+color:97,92,71
+prix:60
+rarete:rare
+poid:0.0

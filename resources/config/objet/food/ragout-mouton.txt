@@ -1,0 +1,6 @@
+nom:Ragout de mouton
+img:$f/ragout-mouton
+color:87,51,30
+rarete:unco
+prix:28
+poid:0.0

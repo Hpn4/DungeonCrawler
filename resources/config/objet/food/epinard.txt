@@ -1,0 +1,5 @@
+nom:Epinard
+img:$f/epinard
+color:79,130,51
+prix:7
+poid:0.0

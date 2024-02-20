@@ -1,0 +1,21 @@
+nom:Bottes en maille
+equip:2
+imgRendue:armor/metal
+img:$a/chain/bottes
+durabilite:350
+color:140,140,140
+prix:130
+poid:4
+stackable:false
+
+Equiper {
+	vie:+30
+	defMin:+6
+	defMax:+6
+}
+
+Desequiper {
+	vie:-30
+	defMin:-6
+	defMax:-6
+}

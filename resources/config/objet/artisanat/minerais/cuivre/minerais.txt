@@ -1,0 +1,6 @@
+nom:Minerais de Cuivre
+img:$i/cuivre/minerais
+color:33,44,34
+prix:16
+rarete:unco
+poid:0.0

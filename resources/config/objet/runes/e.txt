@@ -1,0 +1,5 @@
+nom:Rune ?
+poid:0.01
+prix:10
+color:120,120,120
+img:$r/e

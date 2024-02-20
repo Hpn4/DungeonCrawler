@@ -1,0 +1,5 @@
+nom:Fibre
+img:$m/fibre
+color:99,90,68
+prix:3
+poid:0.0

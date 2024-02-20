@@ -1,0 +1,12 @@
+
+##Stat du zombie n. 1 :
+
+#0:F:4/Vie:180/Mag:50/Ag:6/Att:35/Def:35/Cr:2/Exp:0/ExpM:0/Lvl:1/F
+
+##Image du perso :
+#1:Img:zombie/1.png/F
+
+##Phrase de stat :
+#2:str:Zombie/F
+
+#3:

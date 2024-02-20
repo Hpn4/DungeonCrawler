@@ -1,0 +1,6 @@
+nom:The
+img:$f/the
+color:70,66,31
+rarete:unco
+prix:24
+poid:0.0

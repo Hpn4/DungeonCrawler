@@ -1,0 +1,6 @@
+nom:Sac remplis
+img:$q/sac_remplis
+phrase:la bourse
+color:97,62,37
+prix:0
+poid:0.0

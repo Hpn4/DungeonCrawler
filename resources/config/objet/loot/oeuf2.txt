@@ -1,0 +1,6 @@
+nom:Oeuf
+img:$l/oeuf2
+color:88,93,43
+prix:40
+rarete:unco
+poid:0.0

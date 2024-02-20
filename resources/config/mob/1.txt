@@ -1,0 +1,19 @@
+
+##Stat de l'orc :
+
+vie:150
+mana:90
+atkMin:15
+atkMax:20
+defMin:3
+defMax:7
+critique:3
+experience:0
+expMax:0
+niveau:1
+multiplierMin:1.05
+multiplierMax:1.12
+
+body:orc
+loot:orc.txt
+multiplier:0.2

@@ -1,0 +1,5 @@
+nom:Dattes
+img:$f/dattes
+color:128,64,61
+prix:10
+poid:0.0

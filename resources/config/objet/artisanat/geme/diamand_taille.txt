@@ -1,0 +1,6 @@
+nom:Diamand parfait
+img:$g/diamand_taille
+color:88,102,112
+prix:600
+rarete:epic
+poid:0.0

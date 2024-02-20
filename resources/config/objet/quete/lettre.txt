@@ -1,0 +1,6 @@
+nom:Lettre
+img:$q/lettre
+phrase:la lettre
+color:156,132,95
+prix:0
+poid:0.0

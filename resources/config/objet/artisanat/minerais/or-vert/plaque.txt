@@ -1,0 +1,6 @@
+nom:Plaque en Or vert
+img:$i/or-vert/plaque
+color:85,85,70
+prix:272
+rarete:rare
+poid:0.0

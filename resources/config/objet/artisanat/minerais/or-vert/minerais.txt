@@ -1,0 +1,6 @@
+nom:Minerais d'Or vert
+img:$i/or-vert/minerais
+color:68,73,60
+prix:68
+rarete:rare
+poid:0.0

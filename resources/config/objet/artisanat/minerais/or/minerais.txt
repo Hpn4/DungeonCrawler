@@ -1,0 +1,6 @@
+nom:Minerais d'Or
+img:$i/or/minerais
+color:77,69,63
+prix:100
+rarete:rare
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Charbon
+img:$m/charbon
+color:58,48,53
+prix:2
+poid:0.0

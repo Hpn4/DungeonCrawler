@@ -1,0 +1,6 @@
+nom:Plaque en Dimeritium enrichie
+img:$i/dimeritium-enrichie/plaque
+color:136,70,96
+prix:1024
+rarete:epic
+poid:0.0

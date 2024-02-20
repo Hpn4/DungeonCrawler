@@ -1,0 +1,14 @@
+nom:potion du berserker
+img:$p/attaque
+color:132,46,27
+prix:100
+poid:0.2
+
+Boire {
+	vie:-40
+	mana:-17
+	atkMin:+12
+	atkMax:+12
+	defense:+10
+	critique:+4
+}

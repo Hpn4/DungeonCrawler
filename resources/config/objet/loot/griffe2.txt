@@ -1,0 +1,5 @@
+nom:Griffe
+img:$l/griffe2
+color:56,34,29
+prix:15
+poid:0.0

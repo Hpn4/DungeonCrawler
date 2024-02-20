@@ -1,0 +1,5 @@
+nom:Morille
+img:$f/morille
+color:123,108,80
+prix:8
+poid:0.0

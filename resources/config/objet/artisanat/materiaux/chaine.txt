@@ -1,0 +1,6 @@
+nom:Chaine
+img:$m/chaine
+color:84,80,74
+prix:40
+rarete:unco
+poid:0.0

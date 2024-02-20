@@ -1,0 +1,7 @@
+nom:Minerais de Cuivre
+img:parchemin
+result:$i/cuivre/minerais
+item0:4, $i/cuivre/raffine
+item1:1, $m/charbon
+type:minerais
+prix:15

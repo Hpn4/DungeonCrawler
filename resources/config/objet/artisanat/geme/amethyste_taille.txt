@@ -1,0 +1,6 @@
+nom:Amethyste parfait
+img:$g/amethyste_taille
+color:86,29,97
+prix:240
+rarete:epic
+poid:0.0

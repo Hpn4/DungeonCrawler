@@ -1,0 +1,6 @@
+nom:Plaque en Cuivre
+img:$i/cuivre/plaque
+color:98,56,38
+prix:60
+rarete:unco
+poid:0.0

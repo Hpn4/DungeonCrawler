@@ -1,0 +1,5 @@
+nom:Poulet crue
+img:$f/poulet-crue
+color:84,53,29
+prix:20
+poid:0.0

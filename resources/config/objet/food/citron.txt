@@ -1,0 +1,5 @@
+nom:Citron
+img:$f/citron
+color:94,130,43
+prix:8
+poid:0.0

@@ -1,0 +1,9 @@
+nom:Cortinaire
+img:$c/plante/cortinarius
+color:61,28,15
+prix:5
+poid:0.0
+nmbEffect:3
+effect0:toxique, 2
+effect1:ralentit, 1
+effect2:boost_atk, 2

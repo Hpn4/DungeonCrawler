@@ -1,0 +1,5 @@
+nom:Graisse animal
+img:$m/graisse
+color:76,67,53
+prix:8
+poid:0.0

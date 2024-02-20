@@ -1,0 +1,5 @@
+nom:Poisson cuit
+img:$f/poisson
+color:102,70,43
+prix:20
+poid:0.0

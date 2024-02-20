@@ -1,0 +1,5 @@
+nom:Gingembre
+img:$f/gingembre
+color:184,147,88
+prix:8
+poid:0.0

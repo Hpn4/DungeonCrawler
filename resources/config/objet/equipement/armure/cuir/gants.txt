@@ -1,0 +1,21 @@
+nom:Gants en cuir
+equip:4
+imgRendue:bracers
+img:$a/leather/gants
+durabilite:120
+color:134,89,45
+prix:20
+poid:1.5
+stackable:false
+
+Equiper {
+	vie:+5
+	defMin:+1
+	defMax:+1
+}
+
+Desequiper {
+	vie:-5
+	defMin:-1
+	defMax:-1
+}

@@ -1,0 +1,6 @@
+nom:Pierre runique
+img:$m/pierre_runique
+color:56,57,56
+prix:80
+rarete:rare
+poid:0.0

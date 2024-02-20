@@ -1,0 +1,6 @@
+nom:Chevre
+img:$f/chevre
+color:191,182,162
+rarete:unco
+prix:17
+poid:0.0

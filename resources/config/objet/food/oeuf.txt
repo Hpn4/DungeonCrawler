@@ -1,0 +1,5 @@
+nom:Oeuf
+img:$f/oeuf
+color:131,105,80
+prix:6
+poid:0.0

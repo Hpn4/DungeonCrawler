@@ -1,0 +1,6 @@
+nom:Poudre de rubis
+img:$g/rubis_poudre
+color:69,20,22
+prix:100
+rarete:rare
+poid:0.0

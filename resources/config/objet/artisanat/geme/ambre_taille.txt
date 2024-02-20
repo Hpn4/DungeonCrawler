@@ -1,0 +1,6 @@
+nom:Ambre parfait
+img:$g/ambre_taille
+color:87,55,15
+prix:300
+rarete:epic
+poid:0.0

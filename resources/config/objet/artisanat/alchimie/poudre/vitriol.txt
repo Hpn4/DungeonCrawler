@@ -1,0 +1,12 @@
+nom:Vitriol
+img:$c/poudre/vitriol
+color:48,125,134
+prix:23
+rarete:unco
+poid:0.0
+nmbEffect:5
+effect0:teinture_bleue, 0
+effect1:instant_heal, 0
+effect2:drogue, 1
+effect3:reduit_toxicite, 0
+effect4:ralentit, 2

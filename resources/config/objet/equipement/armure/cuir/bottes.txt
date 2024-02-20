@@ -1,0 +1,21 @@
+nom:Bottes en cuir
+equip:2
+imgRendue:boots/brown
+img:$a/leather/bottes
+durabilite:150
+color:134,89,45
+prix:30
+poid:2
+stackable:false
+
+Equiper {
+	vie:+10
+	defMin:+2
+	defMax:+2
+}
+
+Desequiper {
+	vie:-10
+	defMin:-2
+	defMax:-2
+}

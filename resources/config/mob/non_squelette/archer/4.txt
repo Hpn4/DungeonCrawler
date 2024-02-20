@@ -1,0 +1,12 @@
+
+##Stat de base de l'ondin archer niv. 4 :
+
+#0:F:3/Vie:150/Mag:50/Ag:4/Att:30/Def:30/Cr:1/Exp:0/ExpM:20/Lvl:1/F
+
+##Image du perso :
+#1:Img:orcs/autre/1.png/F
+
+##Phrase de stat :
+#2:str:de l'orc n. 1/id:Orc/F
+
+#3:

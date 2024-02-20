@@ -1,0 +1,21 @@
+nom:Plastron en cuir
+equip:0
+imgRendue:leather
+img:$a/leather/plastron
+durabilite:200
+color:134,89,45
+prix:80
+poid:3
+stackable:false
+
+Equiper {
+	vie:+20
+	defMin:+5
+	defMax:+5
+}
+
+Desequiper {
+	vie:-20
+	defMin:-5
+	defMax:-5
+}

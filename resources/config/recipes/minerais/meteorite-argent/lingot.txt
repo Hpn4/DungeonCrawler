@@ -1,0 +1,8 @@
+nom:Lingot de Meteorite argenté
+img:parchemin
+result:$i/meteorite-argent/lingot
+item0:1, $i/meteorite/lingot
+item1:1, $i/argent/lingot
+item2:1, $m/charbon
+type:minerais
+prix:15

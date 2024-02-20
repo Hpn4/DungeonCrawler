@@ -1,0 +1,10 @@
+nom:potion de defense
+img:$p/defense
+color:186,186,186
+prix:5
+poid:0.2
+
+Boire {
+	defMin:+2
+	defMax:+2
+}

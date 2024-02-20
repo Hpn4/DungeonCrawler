@@ -1,0 +1,5 @@
+nom:Clous
+img:$m/clous
+color:42,45,46
+prix:2
+poid:0.0

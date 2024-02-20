@@ -1,0 +1,11 @@
+nom:Souffre
+img:$c/poudre/souffre
+color:109,98,19
+prix:8
+poid:0.0
+nmbEffect:5
+effect0:teinture_jaune, 0
+effect1:toxique, 2
+effect2:empoisonne, 1
+effect3:explosif, 2
+effect4:inflammable, 1

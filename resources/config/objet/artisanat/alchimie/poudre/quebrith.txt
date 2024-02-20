@@ -1,0 +1,10 @@
+nom:Quebrith
+img:$c/poudre/quebrith
+color:125,130,47
+prix:18
+rarete:unco
+poid:0.0
+nmbEffect:3
+effect0:energie, 1
+effect1:lumiere, 2
+effect2:aveuglement, 1

@@ -1,0 +1,9 @@
+nom:Minerais de Dimeritium enrichie
+img:parchemin
+result:$i/dimeritium-enrichie/minerais
+item0:1, $i/dimeritium/lingot
+item1:4, $i/or-vert/poudre
+item2:1, $g/cristaux_poudre
+item3:1, $m/charbon
+type:minerais
+prix:15

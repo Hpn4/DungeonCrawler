@@ -1,0 +1,12 @@
+
+##Stat de l'orc epeiste n. 3:
+
+#0:F:9/Vie:285/Mag:35/Ag:10/Att:60/Def:40/Cr:5/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:orcs/autre/epee/3.png/F
+
+##Phrase de stat :
+#2:str:Maitre Orc Epeiste/F
+
+#3:

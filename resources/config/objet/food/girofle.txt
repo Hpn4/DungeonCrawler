@@ -1,0 +1,5 @@
+nom:Girofle
+img:$f/girofle
+color:87,51,39
+prix:6
+poid:0.0

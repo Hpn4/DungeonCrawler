@@ -1,0 +1,5 @@
+nom:Sucre
+img:$f/sucre
+color:222,222,219
+prix:6
+poid:0.0

@@ -1,0 +1,5 @@
+nom:Soie
+img:parchemin
+result:$m/soie
+item0:2, $m/tissue
+prix:15

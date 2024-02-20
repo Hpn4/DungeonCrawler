@@ -1,0 +1,5 @@
+nom:Aubergine
+img:$f/aubergine
+color:96,67,89
+prix:10
+poid:0.0

@@ -1,0 +1,13 @@
+nom:Plantain
+img:$c/plante/ribleaf
+color:39,54,8
+prix:5
+poid:0.0
+nmbEffect:7
+effect0:teinture_verte, 0
+effect1:antidote, 1
+effect2:boost_vie, 1
+effect3:regen_vie, 1
+effect4:instant_heal, 0
+effect5:aromate, 0
+effect6:reduit_toxicite, 1

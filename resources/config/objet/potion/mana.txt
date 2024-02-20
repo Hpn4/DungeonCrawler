@@ -1,0 +1,9 @@
+nom:potion de mana
+img:$p/mana
+color:38,196,236
+prix:7
+poid:0.2
+
+Boire {
+	mana:+8
+}

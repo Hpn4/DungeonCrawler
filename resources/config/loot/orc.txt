@@ -1,0 +1,8 @@
+nmb:1-2
+sortie:2
+
+item0:artisanat/materiaux/charbon
+quantite0:1-3
+
+item1:potion/vie
+quantite1:1

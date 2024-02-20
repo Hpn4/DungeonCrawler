@@ -1,0 +1,6 @@
+nom:Stylo
+img:$q/stylo
+phrase:la plume
+color:38,83,103
+prix:0
+poid:0.0

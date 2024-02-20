@@ -1,0 +1,6 @@
+nom:Venin de monstre
+img:$m/venin
+color:87,70,6
+prix:15
+rarete:unco
+poid:0.0

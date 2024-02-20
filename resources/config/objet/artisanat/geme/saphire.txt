@@ -1,0 +1,6 @@
+nom:Saphire brut
+img:$g/saphire
+color:42,46,94
+prix:220
+rarete:rare
+poid:0.0

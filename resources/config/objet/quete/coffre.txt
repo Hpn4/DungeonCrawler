@@ -1,0 +1,6 @@
+nom:Coffre
+img:$q/coffre
+phrase:le coffre
+color:111,76,48
+prix:0
+poid:0.0

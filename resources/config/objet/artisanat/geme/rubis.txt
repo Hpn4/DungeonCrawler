@@ -1,0 +1,6 @@
+nom:Rubis brut
+img:$g/rubis
+color:93,22,25
+prix:200
+rarete:rare
+poid:0.0

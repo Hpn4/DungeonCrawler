@@ -1,0 +1,5 @@
+nom:Fromage
+img:$f/vache
+color:214,168,85
+prix:20
+poid:0.0

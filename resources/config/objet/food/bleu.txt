@@ -1,0 +1,6 @@
+nom:Bleu
+img:$f/bleu
+color:160,162,144
+rarete:unco
+prix:17
+poid:0.0

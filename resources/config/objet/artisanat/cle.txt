@@ -1,0 +1,6 @@
+nom:Cle
+img:$o/artisanat/cle
+color:255,215,0
+prix:10
+poid:0.01
+rarete:unco

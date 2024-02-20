@@ -1,0 +1,6 @@
+nom:Amethyste brut
+img:$g/amethyste
+color:74,38,80
+prix:120
+rarete:rare
+poid:0.0

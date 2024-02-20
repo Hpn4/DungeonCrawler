@@ -1,0 +1,6 @@
+nom:Plaque en Meteorite argenté
+img:$i/meteorite-argent/plaque
+color:74,72,77
+prix:220
+rarete:rare
+poid:0.0

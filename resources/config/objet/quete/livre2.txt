@@ -1,0 +1,6 @@
+nom:Livre
+img:$q/livre2
+phrase:le livre taché de sang
+color:84,78,74
+prix:0
+poid:0.0

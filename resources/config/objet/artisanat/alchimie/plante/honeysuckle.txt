@@ -1,0 +1,10 @@
+nom:Chèvrefeuille
+img:$c/plante/honeysuckle
+color:50,26,22
+prix:8
+poid:0.0
+nmbEffect:4
+effect0:teinture_rose, 0
+effect1:toxique, 0
+effect2:regen_vie, 1
+effect3:boost_vie, 0

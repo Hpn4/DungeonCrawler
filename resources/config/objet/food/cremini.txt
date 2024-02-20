@@ -1,0 +1,5 @@
+nom:Cremini
+img:$f/cremini
+color:127,99,78
+prix:7
+poid:0.0

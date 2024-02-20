@@ -1,0 +1,5 @@
+nom:Ble
+img:$f/ble
+color:76,57,23
+prix:3
+poid:0.0

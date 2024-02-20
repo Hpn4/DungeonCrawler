@@ -1,0 +1,6 @@
+nom:Carapace
+img:$l/carapace1
+color:47,50,23
+prix:450
+rarete:epic
+poid:0.0

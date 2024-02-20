@@ -1,0 +1,9 @@
+nom:Moisissure verte
+img:$c/plante/green_mold
+color:88,112,97
+prix:2
+poid:0.0
+nmbEffect:3
+effect0:teinture_bleue, 0
+effect1:toxique, 1
+effect2:boost_atk, 2

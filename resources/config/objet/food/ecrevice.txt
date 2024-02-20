@@ -1,0 +1,6 @@
+nom:Ecrevice
+img:$f/ecrevice
+color:209,124,107
+rarete:unco
+prix:20
+poid:0.0

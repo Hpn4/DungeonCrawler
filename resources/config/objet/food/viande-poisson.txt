@@ -1,0 +1,5 @@
+nom:Viande de poisson
+img:$f/viande-poisson
+color:73,62,59
+prix:18
+poid:0.0

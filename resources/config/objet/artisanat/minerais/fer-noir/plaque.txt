@@ -1,0 +1,5 @@
+nom:Plaque en Fer noir
+img:$i/fer-noir/plaque
+color:55,62,55
+prix:92
+poid:0.0

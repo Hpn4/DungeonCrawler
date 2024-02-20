@@ -1,0 +1,7 @@
+nom:Plaque en Meteorite argenté
+img:parchemin
+result:$i/meteorite-argent/plaque
+item0:2, $i/meteorite-argent/lingot
+item1:1, $m/charbon
+type:minerais
+prix:15

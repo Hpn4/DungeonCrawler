@@ -1,0 +1,12 @@
+
+##Stat de l'orc archer n. 3:
+
+#0:F:11/Vie:290/Mag:30/Ag:8/Att:62/Def:38/Cr:5/Exp:0/ExpM:0/Lvl:4/F
+
+##Image du perso :
+#1:Img:orcs/autre/archer/3.png/F
+
+##Phrase de stat :
+#2:str:Arbalettier Orc/F
+
+#3:

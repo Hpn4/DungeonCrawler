@@ -1,0 +1,6 @@
+nom:Plaque en Meteorite
+img:$i/meteorite/plaque
+color:75,67,83
+prix:120
+rarete:rare
+poid:0.0

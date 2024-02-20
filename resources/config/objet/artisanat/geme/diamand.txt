@@ -1,0 +1,6 @@
+nom:Diamand brut
+img:$g/diamand
+color:59,74,89
+prix:300
+rarete:rare
+poid:0.0

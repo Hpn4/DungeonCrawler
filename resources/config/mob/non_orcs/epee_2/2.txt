@@ -1,0 +1,12 @@
+
+##Stat de l'or double épéiste n. 2:
+
+#0:F:9/Vie:230/Mag:0/Ag:1/Att:45/Def:25/Cr:2/Exp:0/ExpM:0/Lvl:2/F
+
+##Image du perso :
+#1:Img:orcs/epee_2/2.png/F
+
+##Phrase de stat :
+#2:str:Orc Double Epeiste/F
+
+#3:

@@ -1,0 +1,5 @@
+nom:Viande de mouton
+img:$f/viande-mouton
+color:151,77,72
+prix:24
+poid:0.0

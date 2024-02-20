@@ -1,0 +1,22 @@
+nom:Epee en fer
+equip:7
+arme:epee
+imgRendue:?epee
+img:$w/epee/epee
+durabilite:400
+color:115,77,38
+prix:70
+poid:3.5
+stackable:false
+
+Equiper {
+	critique:+2
+	atkMin:+3
+	atkMax:+3
+}
+
+Desequiper {
+	critique:-2
+	atkMin:-3
+	atkMax:-3
+}

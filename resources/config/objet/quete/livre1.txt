@@ -1,0 +1,6 @@
+nom:Livre
+img:$q/livre1
+phrase:le livre
+color:111,53,25
+prix:0
+poid:0.0

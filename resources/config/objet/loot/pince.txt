@@ -1,0 +1,5 @@
+nom:Pince
+img:$l/pince
+color:40,31,19
+prix:15
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Poudre d'ambre
+img:$g/ambre_poudre
+color:92,44,9
+prix:75
+rarete:rare
+poid:0.0

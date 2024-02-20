@@ -1,0 +1,13 @@
+nom:Nigredo
+img:$c/poudre/nigredo
+color:97,61,38
+prix:35
+rarete:unco
+poid:0.0
+nmbEffect:6
+effect0:teinture_noire, 0
+effect1:instable, 2
+effect2:explosif, 1
+effect3:comburant, 0
+effect4:inflammable, 1
+effect5:enflamme, 0

@@ -1,0 +1,6 @@
+nom:Pépite d'Or
+img:$i/or/pepite
+color:76,56,13
+prix:10
+rarete:unco
+poid:0.0

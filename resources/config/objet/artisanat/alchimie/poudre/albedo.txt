@@ -1,0 +1,12 @@
+nom:Albedo
+img:$c/poudre/albedo
+color:80,80,80
+prix:13
+rarete:unco
+poid:0.0
+nmbEffect:5
+effect0:teinture_blanche, 0
+effect1:explosif, 0
+effect2:inflammable, 0
+effect3:reduit_toxicite, 1
+effect4:amplificateur, 1

@@ -1,0 +1,6 @@
+nom:Cristaux parfait
+img:$g/cristaux_taille
+color:30,82,84
+prix:120
+rarete:epic
+poid:0.0

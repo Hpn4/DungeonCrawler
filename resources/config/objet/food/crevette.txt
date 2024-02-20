@@ -1,0 +1,5 @@
+nom:Crevette
+img:$f/crevette
+color:154,125,106
+prix:15
+poid:0.0

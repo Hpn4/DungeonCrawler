@@ -1,0 +1,6 @@
+nom:Poivres
+img:$f/poivres
+color:40,31,30
+rarete:unco
+prix:15
+poid:0.0

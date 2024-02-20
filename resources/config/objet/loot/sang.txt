@@ -1,0 +1,5 @@
+nom:Sang de monstre
+img:$l/sang
+color:83,53,46
+prix:15
+poid:0.0

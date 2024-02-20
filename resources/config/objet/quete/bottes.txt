@@ -1,0 +1,6 @@
+nom:Bottes
+img:$q/bottes
+phrase:les bottes
+color:82,44,29
+prix:0
+poid:0.0

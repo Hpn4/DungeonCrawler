@@ -1,0 +1,5 @@
+nom:Raisin
+img:$f/raisin
+color:80,53,76
+prix:22
+poid:0.0

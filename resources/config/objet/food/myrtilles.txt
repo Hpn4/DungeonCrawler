@@ -1,0 +1,5 @@
+nom:Myrtilles
+img:$f/myrtilles
+color:65,91,95
+prix:6
+poid:0.0

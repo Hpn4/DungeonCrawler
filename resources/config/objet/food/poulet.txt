@@ -1,0 +1,5 @@
+nom:Poulet cuit
+img:$f/poulet
+color:89,42,16
+prix:23
+poid:0.0

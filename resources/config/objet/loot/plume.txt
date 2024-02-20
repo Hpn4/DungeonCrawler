@@ -1,0 +1,5 @@
+nom:Plume
+img:$l/plume
+color:44,56,47
+prix:15
+poid:0.0

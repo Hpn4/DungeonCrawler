@@ -1,0 +1,6 @@
+nom:Page
+img:$q/page4
+phrase:la page brulé
+color:109,94,68
+prix:0
+poid:0.0

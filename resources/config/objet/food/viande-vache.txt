@@ -1,0 +1,5 @@
+nom:Viande de vache
+img:$f/viande-vache
+color:193,87,81
+prix:18
+poid:0.0

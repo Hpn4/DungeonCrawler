@@ -1,0 +1,7 @@
+nom:Lingot d'Acier noir
+img:parchemin
+result:$i/acier-noir/lingot
+item0:1, $i/fer-noir/lingot
+item1:2, $m/charbon
+type:minerais
+prix:15

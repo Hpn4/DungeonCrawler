@@ -1,0 +1,12 @@
+
+##Stat de l'orc archer n. 2:
+
+#0:F:10/Vie:270/Mag:20/Ag:6/Att:58/Def:32/Cr:4/Exp:0/ExpM:0/Lvl:3/F
+
+##Image du perso :
+#1:Img:orcs/autre/archer/2.png/F
+
+##Phrase de stat :
+#2:str:Orc Archer/F
+
+#3:

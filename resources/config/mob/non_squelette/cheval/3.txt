@@ -1,0 +1,29 @@
+
+##Stat de base du roi ondin niv. 3 :
+
+#0:F:3/Vie:150/Mag:50/Ag:4/Att:30/Def:30/Cr:1/Exp:0/ExpM:20/Lvl:1/F
+
+##Image du perso :
+#1:Img:ondin/roi/3.png/F
+
+##Image de l'attaque :
+#2:Img:masse.png/F
+#3:Img:eau.png/F
+
+##Image d'équipement :
+#4:Img:masse.png/F
+
+##Phrase d'attaque :
+#5:str:a la masse/F
+#6:str:au jet d'eau/F
+
+##Phrase de stat :
+#7:str:du roi ondin niv. 3/id:Seigneur/F
+
+##Son à l'attaque:
+#8:son:massue/F
+#9:son:eau/F
+
+#10:str:roi/4/F
+
+#11:

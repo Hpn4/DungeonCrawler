@@ -1,0 +1,6 @@
+nom:Gants
+img:$q/gants
+phrase:les gants
+color:84,49,29
+prix:0
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Bois renforce
+img:parchemin
+result:$m/bois_renforce
+item0:2, $m/bois
+item1:1, $m/raisine
+prix:15

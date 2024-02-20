@@ -1,0 +1,12 @@
+nom:Vermilion
+img:$c/poudre/vermilion
+color:122,92,48
+prix:30
+rarete:unco
+poid:0.0
+nmbEffect:5
+effect0:teinture_orange, 0
+effect1:drogue, 1
+effect2:instant_heal, 0
+effect3:regen_vie, 1
+effect4:inflammable, 0

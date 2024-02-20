@@ -1,0 +1,5 @@
+nom:Ficelle
+img:$m/ficelle
+color:60,55,36
+prix:12
+poid:0.0

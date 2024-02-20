@@ -1,0 +1,10 @@
+nom:Sabline
+img:$c/plante/arenaria
+color:105,110,100
+prix:2
+poid:0.0
+nmbEffect:4
+effect0:teinture_blanche, 0
+effect1:amplificateur, 1
+effect2:amplificateur_degat, 0
+effect3:stabiliseur, 0

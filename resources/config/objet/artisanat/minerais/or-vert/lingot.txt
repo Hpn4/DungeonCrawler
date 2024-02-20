@@ -1,0 +1,6 @@
+nom:Lingot d'Or vert
+img:$i/or-vert/lingot
+color:124,132,109
+prix:136
+rarete:rare
+poid:0.0

@@ -1,0 +1,7 @@
+nom:Lingot d'Argent
+img:parchemin
+result:$i/argent/lingot
+item0:10, $i/argent/poudre
+item1:1, $m/charbon
+type:minerais
+prix:15

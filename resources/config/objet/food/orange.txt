@@ -1,0 +1,5 @@
+nom:Orange
+img:$f/orange
+color:130,80,26
+prix:6
+poid:0.0

@@ -1,0 +1,11 @@
+nom:Calcium
+img:$c/poudre/calcium
+color:91,92,92
+prix:16
+poid:0.0
+nmbEffect:5
+effect0:explosif, 1
+effect1:toxique, 1
+effect2:empoisonne, 0
+effect3:inflammable, 0
+effect4:instable, 1

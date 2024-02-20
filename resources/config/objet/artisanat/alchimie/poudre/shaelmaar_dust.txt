@@ -1,0 +1,9 @@
+nom:Poussière de shaelmaar
+img:$c/poudre/shaelmaar_dust
+color:30,25,21
+prix:45
+rarete:unco
+poid:0.0
+nmbEffect:2
+effect0:reduit_toxicite, 2
+effect1:absorbeur, 0

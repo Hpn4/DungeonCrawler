@@ -1,0 +1,6 @@
+nom:Vin
+img:$f/vin
+color:52,42,47
+rarete:rare
+prix:35
+poid:0

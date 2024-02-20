@@ -1,0 +1,6 @@
+nom:Fil
+img:parchemin
+result:$m/fil
+item0:2, $m/cotton
+item1:1, $m/raisine
+prix:15

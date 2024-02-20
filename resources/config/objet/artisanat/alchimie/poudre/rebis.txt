@@ -1,0 +1,11 @@
+nom:Rebis
+img:$c/poudre/rebis
+color:51,122,48
+prix:26
+rarete:unco
+poid:0.0
+nmbEffect:4
+effect0:teinture_verte, 0
+effect1:toxique, 2
+effect2:empoisonne, 2
+effect3:ralentit, 0

@@ -1,0 +1,6 @@
+nom:Perle noire
+img:$m/perle_noire
+color:53,69,73
+prix:130
+rarete:rare
+poid:0.0

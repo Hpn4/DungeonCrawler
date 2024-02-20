@@ -1,0 +1,11 @@
+nom:Achillée millefeuille
+img:$c/plante/moleyarrow
+color:51,37,12
+prix:4
+poid:0.0
+nmbEffect:5
+effect0:aromate, 0
+effect1:regen_vie, 1
+effect2:boost_vie, 1
+effect3:instant_heal, 1
+effect4:reduit_toxicite, 0

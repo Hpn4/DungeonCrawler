@@ -1,0 +1,5 @@
+nom:Cotton
+img:$m/cotton
+color:91,87,84
+prix:4
+poid:0.0

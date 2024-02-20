@@ -1,0 +1,8 @@
+nom:Basilic de Nazair
+img:$c/plante/holy_basil
+color:33,31,14
+prix:10
+poid:0.0
+nmbEffect:2
+effect0:aromatique, 0
+effect1:boost_vie, 0

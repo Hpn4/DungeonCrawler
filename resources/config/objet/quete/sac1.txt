@@ -1,0 +1,6 @@
+nom:Sac
+img:$q/sac1
+phrase:le sac
+color:110,66,36
+prix:0
+poid:0.0

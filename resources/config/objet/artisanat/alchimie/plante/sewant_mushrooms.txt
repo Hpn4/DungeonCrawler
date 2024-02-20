@@ -1,0 +1,11 @@
+nom:Longrube
+img:$c/plante/sewant_mushrooms
+color:89,79,67
+prix:5
+poid:0.0
+nmbEffect:5
+effect0:teinture_orange, 0
+effect1:toxique, 0
+effect2:amplificateur_degat, 2
+effect3:amplificateur, 0
+effect4:boost_atk, 2

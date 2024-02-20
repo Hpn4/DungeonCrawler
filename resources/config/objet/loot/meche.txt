@@ -1,0 +1,5 @@
+nom:Meche de cheveux
+img:$l/meche
+color:54,36,25
+prix:15
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Poudre de saphire
+img:$g/saphire_poudre
+color:35,50,96
+prix:110
+rarete:rare
+poid:0.0

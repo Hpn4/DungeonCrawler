@@ -1,0 +1,9 @@
+nom:potion d'experience
+img:$p/experience
+color:44,117,255
+prix:8
+poid:0.2
+
+Boire {
+	experience:+5
+}

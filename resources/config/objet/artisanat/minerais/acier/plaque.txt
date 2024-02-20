@@ -1,0 +1,5 @@
+nom:Plaque en Acier
+img:$i/acier/plaque
+color:77,77,76
+prix:12
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Page
+img:$q/page1
+phrase:la page déchiré
+color:152,136,95
+prix:0
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Sac sang
+img:$q/sac_sang
+phrase:sac taché de sang
+color:103,60,37
+prix:0
+poid:0.0

@@ -1,0 +1,6 @@
+nom:Ecaille de dragon
+img:$l/ecaille_dragon
+color:105,73,34
+prix:80
+rarete:rare
+poid:0.0

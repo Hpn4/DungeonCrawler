@@ -1,0 +1,9 @@
+nom:Poussière de Stammelford
+img:$c/poudre/stammelfords_dust
+color:52,55,63
+prix:14
+poid:0.0
+nmbEffect:3
+effect0:explosif, 2
+effect1:instable, 1
+effect2:inflammable, 1

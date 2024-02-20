@@ -1,0 +1,6 @@
+nom:Cristaux brut
+img:$g/cristaux
+color:38,81,77
+prix:60
+rarete:rare
+poid:0.0

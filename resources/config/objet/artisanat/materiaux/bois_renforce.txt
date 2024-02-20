@@ -1,0 +1,6 @@
+nom:Bois renforce
+img:$m/bois_renforce
+color:90,63,54
+prix:12
+rarete:unco
+poid:0.0

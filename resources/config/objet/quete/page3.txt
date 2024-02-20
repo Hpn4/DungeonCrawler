@@ -1,0 +1,6 @@
+nom:Page
+img:$q/page3
+phrase:la page taché
+color:118,98,74
+prix:0
+poid:0.0
