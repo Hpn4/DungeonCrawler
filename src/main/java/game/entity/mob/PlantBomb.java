@@ -1,9 +1,9 @@
 package game.entity.mob;
 
 import engine.graph.hlib.component.HWindow;
-import game.entity.Animation;
+import game.entity.utils.Animation;
 import game.entity.Player;
-import game.entity.Stat;
+import game.entity.utils.Stat;
 import loader.generator.Dungeon;
 import loader.generator.Salle;
 
@@ -108,7 +108,7 @@ public class PlantBomb extends CollisionMob {
 
                 if (Math.abs(deltaY) <= 1.3f && Math.abs(deltaX) <= 1.6f
                         && (anim.getIndex() >= 3 && anim.getIndex() <= 8) && state == 1) {
-                    doDamage(perso);
+                    dealDamageTo(perso);
                     state = 2; // On a eue le joueur
                 }
             }

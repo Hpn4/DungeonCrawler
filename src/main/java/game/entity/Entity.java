@@ -1,18 +1,24 @@
 package game.entity;
 
+import game.entity.utils.Animation;
+import game.entity.utils.Stat;
 import org.joml.Vector2f;
 
-import game.entity.mob.HitBoxInsets;
+import game.entity.utils.HitBoxInsets;
 import loader.generator.Salle;
 import loader.map.AbstractLayer;
 
 public abstract class Entity implements Comparable<Entity> {
 
+    // Position of the entity
     protected final Vector2f pos;
 
     protected int direction;
 
+    // Current played animation
     protected Animation anim;
+
+    protected Stat stat;
 
     public Entity() {
         direction = 0;
@@ -23,12 +29,18 @@ public abstract class Entity implements Comparable<Entity> {
         return pos;
     }
 
+    public Stat getStat() {
+        return stat;
+    }
+
     @Override
     public int compareTo(final Entity entity) {
         return Float.compare(pos.y, entity.pos.y);
     }
 
     public abstract void render();
+
+    public abstract void spawn(final Salle salle);
 
     public boolean collide(final Salle salle, final float x, final float y, final HitBoxInsets hit) {
         final AbstractLayer layer = salle.getMap().getLayer("collision");
@@ -100,5 +112,47 @@ public abstract class Entity implements Comparable<Entity> {
             n = defInt + 1;
 
         return n;
+    }
+
+    protected boolean fallInHole(float x, float y, Salle salle, float yFeet) {
+        final float yPos = y + yFeet;
+        final int pX = (int) x, pY = (int) y;
+
+        final float ecartX = x - (int) x;
+        final float ecartY = yPos - (int) yPos;
+        final int tile = salle.getTileId(pX, pY, 0);
+        if (tile == 432 && ecartY >= 0.2f)
+            return true;
+        else if (tile == 456 && ecartX <= 0.3f)
+            return true;
+        else if (tile == 478 && ecartY <= 0.4f)
+            return true;
+        else if (tile == 454 && ecartX >= 0.2f)
+            return true;
+
+        return tile == 455;
+
+        // if (tile == 479 || tile == 477 || tile == 431 || tile == 433 || tile == 386)
+        // return true;
+    }
+
+    public boolean dealDamageTo(Entity entity) {
+        // Our attack
+        float atk = (float) (Math.random() * (stat.atkMax - stat.atkMin) + stat.atkMin);
+
+        if (Math.random() <= stat.crit)
+            atk *= 2;
+        atk = halfRound(atk);
+
+        // Calculate the mob's defense
+        float def = (float) (Math.random() * (entity.getStat().defMax - entity.getStat().defMin) + entity.getStat().defMin);
+
+        if (Math.random() <= entity.getStat().crit)
+            def *= 2;
+        def = halfRound(def);
+
+        // Reduce the mob's life
+        entity.getStat().vie -= atk - def;
+        return entity.getStat().vie > 0;
     }
 }

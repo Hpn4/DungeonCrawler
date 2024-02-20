@@ -1,4 +1,4 @@
-package game.entity;
+package game.entity.utils;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -20,7 +20,7 @@ public class Stat {
 
     public float crit; // Pourcentage
 
-    float regenVie, regenMana; // Recupération par seconde ou par cycle
+    public float regenVie, regenMana; // Recupération par seconde ou par cycle
 
     public Stat() {
 

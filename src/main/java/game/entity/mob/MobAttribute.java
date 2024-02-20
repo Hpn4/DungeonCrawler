@@ -1,6 +1,7 @@
 package game.entity.mob;
 
-import game.entity.Stat;
+import game.entity.utils.Stat;
+import game.entity.utils.HitBoxInsets;
 
 public class MobAttribute {
 

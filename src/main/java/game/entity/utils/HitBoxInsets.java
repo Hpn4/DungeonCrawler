@@ -1,4 +1,4 @@
-package game.entity.mob;
+package game.entity.utils;
 
 public class HitBoxInsets {
 

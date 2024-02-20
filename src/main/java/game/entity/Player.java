@@ -3,6 +3,8 @@ package game.entity;
 import static org.lwjgl.opengl.GL13.GL_TEXTURE0;
 import static org.lwjgl.opengl.GL13.glActiveTexture;
 
+import game.entity.utils.Animation;
+import game.entity.utils.Stat;
 import org.joml.Vector2f;
 import org.lwjgl.glfw.GLFW;
 
@@ -10,7 +12,7 @@ import engine.graph.hlib.component.HWindow;
 import engine.graph.renderer.DungeonRenderer;
 import engine.graph.renderer.mesh.Mesh;
 import engine.graph.renderer.ShaderProgram;
-import game.entity.mob.HitBoxInsets;
+import game.entity.utils.HitBoxInsets;
 import game.entity.mob.Mob;
 import loader.generator.Dungeon;
 import loader.generator.Salle;
@@ -51,8 +53,6 @@ public class Player extends Entity {
 
     private float timer;
 
-    private final Stat stat;
-
     // Le corp ainsi que tout les accessoires, armures...
     private final Texture body;
 
@@ -70,9 +70,6 @@ public class Player extends Entity {
         weapon = (Texture) TextureCache.getTexture("test/attaque.png");
 
         anim = new Animation(WALK);
-
-        pos.x = 15;
-        pos.y = 10;
 
         // The shader program for the body
         perso = new ShaderProgram("player");
@@ -120,17 +117,19 @@ public class Player extends Entity {
     }
 
     public void input(final HWindow window) {
-        if (!dash && window.isKeyPressed(GLFW.GLFW_KEY_Q)) {
-            needAnim = true;
-            anim.setMoves(SWORD);
-            isAtk = true;
-        } else {
+        if (dash)
             isAtk = dealDamage = false;
-        }
+        else {
+            if (window.isKeyPressed(GLFW.GLFW_KEY_Q)) {
+                needAnim = true;
+                anim.setMoves(SWORD);
+                isAtk = true;
+            }
 
-        if (!dash && window.isKeyPressed(GLFW.GLFW_KEY_F)) {
-            needAnim = true;
-            anim.setMoves(SPELL);
+            if (window.isKeyPressed(GLFW.GLFW_KEY_F)) {
+                needAnim = true;
+                anim.setMoves(SPELL);
+            }
         }
 
         if (window.isKeyReleassed(GLFW.GLFW_KEY_F) || window.isKeyReleassed(GLFW.GLFW_KEY_Q))
@@ -212,7 +211,7 @@ public class Player extends Entity {
                     }
 
                     if (dealDamage) {
-                        doDamage(mob);
+                        dealDamageTo(mob);
                         mob.setDamaged();
                     }
                 }
@@ -222,7 +221,6 @@ public class Player extends Entity {
         if (xInc != 0 || yInc != 0 || needAnim) {
             anim.update(interval, speed);
 
-            // Pour eviter les mouvements diagonaux ultra rapide
             if (xInc != 0 && yInc != 0)
                 speed = dash ? 3.5f : 1f;
             else if (!dash)
@@ -232,29 +230,14 @@ public class Player extends Entity {
             final float xPos = pos.x, yPos = pos.y + 0.8f;
             final int pX = (int) pos.x, pY = (int) pos.y;
 
-            if (!collide(salle, xPos, yPos, hits)) {
+            if (!collide(salle, xPos + dX, yPos + dY, hits)) {
                 pos.x += dX;
                 pos.y += dY;
             }
             needAnim = false;
 
-            // Les trous
-            final float ecartX = xPos - (int) xPos;
-            final float ecartY = yPos - (int) yPos;
-            final int tile = salle.getTileId(pX, pY, 0);
-            if (tile == 432 && ecartY >= 0.2f) {
-                pos.x = 2.3f;
-                pos.y = 10;
-            } else if (tile == 456 && ecartX <= 0.3f) {
-                pos.x = 2.3f;
-                pos.y = 10;
-            } else if (tile == 478 && ecartY <= 0.4f) {
-                pos.x = 2.3f;
-                pos.y = 10;
-            } else if (tile == 454 && ecartX >= 0.2f) {
-                pos.x = 2.3f;
-                pos.y = 10;
-            } else if (tile == 455) {
+            // Holes
+            if (fallInHole(pos.x, pos.y, salle, 0.8f)) {
                 pos.x = 2.3f;
                 pos.y = 10;
             }
@@ -345,23 +328,10 @@ public class Player extends Entity {
         }
     }
 
-    public void doDamage(final Mob mob) {
-        // Our attack
-        float atk = (float) (Math.random() * (stat.atkMax - stat.atkMin) + stat.atkMin);
-
-        if (Math.random() <= stat.crit)
-            atk *= 2;
-        atk = halfRound(atk);
-
-        // Calculate the mob's defense
-        float def = (float) (Math.random() * (mob.getStat().defMax - mob.getStat().defMin) + mob.getStat().defMin);
-
-        if (Math.random() <= mob.getStat().crit)
-            def *= 2;
-        def = halfRound(def);
-
-        // Reduce the mob's life
-        mob.getStat().vie -= atk - def;
+    @Override
+    public void spawn(Salle salle) {
+        pos.x = 15;
+        pos.y = 10;
     }
 
     public void cleanup() {
@@ -380,9 +350,5 @@ public class Player extends Entity {
 
     public float getY() {
         return pos.y;
-    }
-
-    public Stat getStat() {
-        return stat;
     }
 }

@@ -19,7 +19,7 @@ import engine.graph.hlib.graphics.Graphics;
 import engine.graph.hlib.graphics.paint.Color;
 import game.entity.Entity;
 import game.entity.Player;
-import game.entity.Stat;
+import game.entity.utils.Stat;
 import game.entity.mob.FuryGhost;
 import game.entity.mob.Mob;
 import game.entity.mob.PlantBomb;
@@ -47,16 +47,29 @@ public class DungeonRenderer {
         mapRenderer = new MapRenderer(window);
         miniMapRenderer = new MiniMapRenderer();
         perso = new Player(window);
+        perso.spawn(null);
 
         this.dungeon = dungeon;
-        mapRenderer.setSalle(dungeon.getActual());
 
         dungeon.getActual().getMobs().add(new PlantBomb(window));
         dungeon.getActual().getMobs().add(new FuryGhost(window));
 
         entities = new ArrayList<>();
+
+        setupRoom(dungeon.getActual());
+    }
+
+    private void setupRoom(Salle salle) {
+        try {
+            mapRenderer.setSalle(salle);
+        } catch (final Exception e) {
+            System.err.println(e.getMessage());
+        }
+        entities.clear();
+        entities.addAll(salle.getMobs());
+        for (Entity entitie : entities)
+            entitie.spawn(salle);
         entities.add(perso);
-        entities.addAll(dungeon.getActual().getMobs());
     }
 
     public void setDungeon(final Dungeon dungeon) {
@@ -70,16 +83,8 @@ public class DungeonRenderer {
 
     public void update(final float interval, final HWindow window) {
         final Salle salle = perso.update(interval, window, this);
-        if (salle != null) {
-            try {
-                mapRenderer.setSalle(salle);
-            } catch (final Exception e) {
-                System.err.println(e.getMessage());
-            }
-            entities.clear();
-            entities.addAll(salle.getMobs());
-            entities.add(perso);
-        }
+        if (salle != null)
+            setupRoom(salle);
 
         for (int i = 0; i < entities.size(); ) {
             if (entities.get(i) instanceof Mob mob) {

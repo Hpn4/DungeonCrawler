@@ -1,7 +1,7 @@
 package game.entity.mob;
 
 import engine.graph.hlib.component.HWindow;
-import game.entity.Animation;
+import game.entity.utils.Animation;
 import game.entity.Player;
 import loader.generator.Dungeon;
 
